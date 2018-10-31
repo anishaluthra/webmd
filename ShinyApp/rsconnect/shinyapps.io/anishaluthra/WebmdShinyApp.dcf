@@ -1,0 +1,12 @@
+name: WebmdShinyApp
+title: WebmdShinyApp
+username:
+account: anishaluthra
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 544151
+bundleId: 1673420
+url: https://anishaluthra.shinyapps.io/WebmdShinyApp/
+when: 1540958157.7708
+asMultiple: FALSE
+asStatic: FALSE
